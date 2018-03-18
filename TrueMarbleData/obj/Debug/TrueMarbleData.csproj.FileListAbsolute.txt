@@ -1,0 +1,14 @@
+C:\Users\owner\source\SC400\TrueMarbleData\bin\Debug\TrueMarbleData.exe.config
+C:\Users\owner\source\SC400\TrueMarbleData\bin\Debug\TrueMarbleData.exe
+C:\Users\owner\source\SC400\TrueMarbleData\bin\Debug\TrueMarbleData.pdb
+C:\Users\owner\source\SC400\TrueMarbleData\obj\Debug\TrueMarbleData.csprojResolveAssemblyReference.cache
+C:\Users\owner\source\SC400\TrueMarbleData\obj\Debug\TrueMarbleData.csproj.CoreCompileInputs.cache
+C:\Users\owner\source\SC400\TrueMarbleData\obj\Debug\TrueMarbleData.exe
+C:\Users\owner\source\SC400\TrueMarbleData\obj\Debug\TrueMarbleData.pdb
+C:\Users\owner\source\repos\TrueMarbleData\bin\Debug\TrueMarbleData.exe.config
+C:\Users\owner\source\repos\TrueMarbleData\bin\Debug\TrueMarbleData.exe
+C:\Users\owner\source\repos\TrueMarbleData\bin\Debug\TrueMarbleData.pdb
+C:\Users\owner\source\repos\TrueMarbleData\obj\Debug\TrueMarbleData.csprojResolveAssemblyReference.cache
+C:\Users\owner\source\repos\TrueMarbleData\obj\Debug\TrueMarbleData.csproj.CoreCompileInputs.cache
+C:\Users\owner\source\repos\TrueMarbleData\obj\Debug\TrueMarbleData.exe
+C:\Users\owner\source\repos\TrueMarbleData\obj\Debug\TrueMarbleData.pdb
